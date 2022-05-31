@@ -69,6 +69,6 @@ highlight_name: true
 
 I am a fourth-year undergraduate at Jilin University, China. I am crazy about exploring the fascinating universe and theoretical physics! My research interests include Black Hole Thermodynamics and Quantum Information in Quantum Gravity. 
 
-I was admitted by the Physics, MSc program of the University of Waterloo.
+I will be joining the University of Waterloo as a MSc student in Physics this fall.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
