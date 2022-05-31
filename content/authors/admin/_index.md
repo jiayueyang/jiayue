@@ -6,7 +6,7 @@ title: Jiayue Yang
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergradate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,8 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fourth-year undergraduate at Jilin University, China. I am crazy about exploring the fascinating universe and theoretical physics! My research interests include Black Hole Thermodynamics and Quantum Information in Quantum Gravity. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I was admitted by the Physics, MSc program of the University of Waterloo.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
