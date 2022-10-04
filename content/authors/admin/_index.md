@@ -6,7 +6,7 @@ title: Jiayue Yang
 superuser: true
 
 # Role/position/tagline
-role: Undergradate
+role: MSc student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,10 +26,11 @@ interests:
 education:
   courses:
     - course: MSc in Physics
-      institution: Jilin University
-      year: 2022
+     institution: University of Waterloo
+      year: 2022-2024
     - course: BSc in Physics
       institution: University of Waterloo
+          institution: Jilin University
       year: 2018-2022
 
 # Social/Academic Networking
@@ -67,8 +68,12 @@ email: ''
 highlight_name: true
 ---
 
-I am a fourth-year undergraduate at Jilin University, China. I am crazy about exploring the fascinating universe and theoretical physics! My research interests include Black Hole Thermodynamics and Quantum Information in Quantum Gravity. 
+I am a Physics MSc Student at University of Waterloo.  I am crazy about exploring the fascinating universe and theoretical physics! My research interests include Black Hole Thermodynamics and Quantum Information in Quantum Gravity. 
 
-I will be joining the University of Waterloo as a MSc student in Physics this fall.
+Click here to know more about me!
+  - icon: linkedin
+    icon_pack: fab
+    link:https://efficacious-parcel-4e4.notion.site/Hi-I-m-Jiayue-Yang-b611c3c006cd46a3a94c73ce7efda2b6
+    ![hi](https://efficacious-parcel-4e4.notion.site/Hi-I-m-Jiayue-Yang-b611c3c006cd46a3a94c73ce7efda2b6)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
