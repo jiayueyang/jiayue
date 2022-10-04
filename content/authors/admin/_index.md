@@ -10,7 +10,7 @@ role: MSc student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Jilin University
+  - name: University of Waterloo
     url: http://global.jlu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ education:
      institution: University of Waterloo
       year: 2022-2024
     - course: BSc in Physics
-          institution: Jilin University
+      institution: Jilin University
       year: 2018-2022
 
 # Social/Academic Networking
@@ -67,8 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Physics MSc Student at University of Waterloo.  I am crazy about exploring the fascinating universe and theoretical physics! My research interests include Black Hole Thermodynamics and Quantum Information in Quantum Gravity. 
-
+I am a Physics MSc Student at University of Waterloo. I am crazy about exploring the fascinating universe and theoretical physics! My research interests include Black Hole Thermodynamics and Quantum Information in Quantum Gravity. 
 
     [hi](https://efficacious-parcel-4e4.notion.site/Hi-I-m-Jiayue-Yang-b611c3c006cd46a3a94c73ce7efda2b6)
 
