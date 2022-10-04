@@ -1,36 +1,39 @@
 ---
 # Display name
-title: Jiayue Yang
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: MSc student
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Waterloo
-    url: http://global.jlu.edu.cn/
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Black Hole Information Paradox
-  - Cosmology and String Theory
-  - Quantum Information in Quantum Gravity
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Physics
-     institution: University of Waterloo
-      year: 2022-2024
-    - course: BSc in Physics
-      institution: Jilin University
-      year: 2018-2022
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,8 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a Physics MSc Student at University of Waterloo. I am crazy about exploring the fascinating universe and theoretical physics! My research interests include Black Hole Thermodynamics and Quantum Information in Quantum Gravity. 
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-    [hi](https://efficacious-parcel-4e4.notion.site/Hi-I-m-Jiayue-Yang-b611c3c006cd46a3a94c73ce7efda2b6)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
